@@ -1,1 +1,1 @@
-# .github
+# UCLouvain's Bioinformatics Core Facility
